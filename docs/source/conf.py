@@ -168,7 +168,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'openfpga', u'Sphinx Example Documentation',
+    (master_doc, 'sphinx_doc_example', u'Sphinx Example Documentation',
      [author], 1)
 ]
 
