@@ -17,7 +17,7 @@ Install the dependencies:
 
   python3 -m pip install -r <path_to_requirements_file>
 
-.. note:: See full details at :ref:`install_doc_dependencies_build`
+.. note:: See full details at install_doc_dependencies_build_
 
 .. _install_doc_dependencies_build: ../../../requirements.txt
 
