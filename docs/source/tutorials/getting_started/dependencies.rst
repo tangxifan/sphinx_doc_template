@@ -11,14 +11,16 @@ In general, this project requires specific versions for the following dependenci
  
 - Python dependencies
 
-.. mdinclude:: ../../../../DEPENDENCIES.md 
-
 Install the dependencies:
 
 .. code-block::
 
   python3 -m pip install -r <path_to_requirements_file>
 
-.. note:: See full details at :ref:`install_dependencies_build`
+.. note:: See full details at :ref:`install_doc_dependencies_build`
 
-.. _install_ubuntu_dependencies_build: ../../../requirements.txt
+.. _install_doc_dependencies_build: ../../../requirements.txt
+
+A full example is available:
+
+.. mdinclude:: ../../../../DEPENDENCIES.md
