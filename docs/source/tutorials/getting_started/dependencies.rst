@@ -9,13 +9,16 @@ In general, this project requires specific versions for the following dependenci
 
 - Sphinx version >1.8.5
  
-- python dependencies
+- Python dependencies
 
-.. include:: ../../requirements.txt
+.. mdinclude:: ../../../../DEPENDENCIES.md 
+
+Install the dependencies:
 
 .. code-block::
-  python3 -m pip install -r requirements.txt
+
+  python3 -m pip install -r <path_to_requirements_file>
 
 .. note:: See full details at :ref:`install_dependencies_build`
 
-.. _install_ubuntu_dependencies_build: ../../requirements.txt
+.. _install_ubuntu_dependencies_build: ../../../requirements.txt
