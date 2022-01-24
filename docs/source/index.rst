@@ -18,6 +18,12 @@ Welcome to Documentation!
 
    tutorials/index
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Appendix
+
+   appendix/index
+
 For more information on the OSFPGA see osfpga_web_ 
 
 Indices and tables

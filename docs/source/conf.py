@@ -95,6 +95,8 @@ todo_include_todos = True
 # Number figures for referencing
 numfig = True
 
+# Bibtex File
+bibtex_bibfiles = []
 
 # -- Options for HTML output -------------------------------------------------
 

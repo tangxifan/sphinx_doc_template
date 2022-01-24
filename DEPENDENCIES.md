@@ -11,7 +11,7 @@ apt-get install python3 python3-sphinx
 yum install python3 python3-sphinx
 ```
 
-.. seealos:: Read more details at [Sphinx documentation](https://www.sphinx-doc.org/en/master/usage/installation.html)
+.. seealso:: Read more details at [Sphinx documentation](https://www.sphinx-doc.org/en/master/usage/installation.html)
 
 ### Install Python Packages
 
