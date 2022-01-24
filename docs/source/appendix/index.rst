@@ -8,3 +8,5 @@ Appendix
   :maxdepth: 2
 
   contact
+
+  reference

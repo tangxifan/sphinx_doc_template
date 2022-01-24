@@ -3,7 +3,7 @@ Motivation
 
 A example project to show how to get started with Sphinx-based documentation.
 
-This is an example about how to add a figure
+This is an example about how to add a figure 
 
 .. _fig_osfpga_logo:
 
@@ -11,4 +11,4 @@ This is an example about how to add a figure
   :scale: 50%
   :alt: OSFPGA
 
-  A project under OSFPGA foundation
+  A project under OSFPGA foundation :cite:`osfpga_web`

@@ -96,7 +96,7 @@ todo_include_todos = True
 numfig = True
 
 # Bibtex File
-bibtex_bibfiles = []
+bibtex_bibfiles = ['appendix/z_reference.bib']
 
 # -- Options for HTML output -------------------------------------------------
 
